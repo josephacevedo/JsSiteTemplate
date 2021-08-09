@@ -48,6 +48,13 @@ color:#F0DB4F;
     color: #264de4;
 }
 
+
+.footer-logo{
+    width: 150px;
+    position: absolute;
+    top:10px;
+}
+
 code[class*="language-"],
         pre[class*="language-"] {
             white-space: pre-wrap;
@@ -55,8 +62,8 @@ code[class*="language-"],
             word-wrap: break-word;
         }
 
-.footer-logo{
+/* .footer-logo{
     position: absolute;
     height: 5rem;
 
-}
+} */

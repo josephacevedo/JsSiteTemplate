@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="189"
-   height="29"
-   viewBox="0 0 50.00647 7.6729215"
+   width="114"
+   height="17"
+   viewBox="0 0 30.162633 4.4979195"
    version="1.1"
    id="svg5"
    sodipodi:docname="logo-white-2.svg"
@@ -19,7 +19,7 @@
      bordercolor="#999999"
      borderopacity="1"
      inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
@@ -28,8 +28,8 @@
      inkscape:cy="44.438829"
      inkscape:window-width="2265"
      inkscape:window-height="1033"
-     inkscape:window-x="721"
-     inkscape:window-y="79"
+     inkscape:window-x="351"
+     inkscape:window-y="148"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
@@ -49,21 +49,21 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.76252px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.119897"
-       x="15.033158"
-       y="7.8469353"
+       style="font-style:normal;font-weight:normal;font-size:2.92123px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0735423"
+       x="8.6869402"
+       y="4.8131471"
        id="text1749"
        transform="scale(1.1319583,0.88342477)"><tspan
          sodipodi:role="line"
          id="tspan1747"
-         style="font-size:4.76252px;fill:#ffffff;stroke-width:0.119897"
-         x="15.033158"
-         y="7.8469353"> </tspan></text>
+         style="font-size:2.92123px;fill:#ffffff;stroke-width:0.0735423"
+         x="8.6869402"
+         y="4.8131471"> </tspan></text>
     <g
        id="g2663"
-       transform="matrix(0.00741921,-0.0031748,0.00488269,0.00694992,28.409886,0.55523429)"
-       inkscape:transform-center-x="-3.2023725"
-       inkscape:transform-center-y="-9.1318989"
+       transform="matrix(0.00455079,-0.00194736,0.00299494,0.00426293,16.821467,0.34057091)"
+       inkscape:transform-center-x="-1.9642689"
+       inkscape:transform-center-y="-5.601317"
        style="fill:#ffffff">
       <g
          id="g2608"
@@ -125,9 +125,10 @@
     </g>
     <g
        id="g390"
-       transform="matrix(-0.01692728,0,0,0.00751976,20.447378,20.194323)"
+       transform="matrix(-0.01038284,0,0,0.00461246,11.937432,12.386774)"
        style="fill:#ff0000"
-       inkscape:transform-center-x="0.33957629">
+       inkscape:transform-center-x="0.20828919"
+       inkscape:transform-center-y="4.4587912e-06">
       <polygon
          points="112.814,0 91.566,21.178 273.512,203.718 91.566,386.258 112.814,407.436 315.869,203.718 "
          id="polygon358"
@@ -181,9 +182,9 @@
     </g>
     <g
        id="g424"
-       transform="matrix(0.01692728,0,0,0.00751976,23.546763,3.5762479)"
+       transform="matrix(0.01038284,0,0,0.00461246,13.83853,2.193597)"
        style="fill:#ff0000"
-       inkscape:transform-center-x="-0.33957662">
+       inkscape:transform-center-x="-0.20829019">
       <polygon
          points="315.869,203.718 112.814,0 91.566,21.178 273.512,203.718 91.566,386.258 112.814,407.436 "
          id="polygon392"
@@ -236,35 +237,35 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.76252px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264585"
-       x="30.052502"
-       y="6.5368223"
+       style="font-style:normal;font-weight:normal;font-size:2.92123px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.162291"
+       x="17.829014"
+       y="4.0095506"
        id="text2204"><tspan
          sodipodi:role="line"
          id="tspan2202"
-         style="font-size:4.76252px;stroke-width:0.264585;fill:#ffffff"
-         x="30.052502"
-         y="6.5368223">Acevedo</tspan></text>
+         style="font-size:2.92123px;fill:#ffffff;stroke-width:0.162291"
+         x="17.829014"
+         y="4.0095506">Acevedo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.76252px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264585"
-       x="1.1885164"
-       y="6.2821398"
+       style="font-style:normal;font-weight:normal;font-size:2.92123px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.162291"
+       x="0.12445281"
+       y="3.8533342"
        id="text7868"><tspan
          sodipodi:role="line"
          id="tspan7866"
-         style="font-size:4.76252px;stroke-width:0.264585;fill:#ffffff"
-         x="1.1885164"
-         y="6.2821398">Joseph</tspan></text>
+         style="font-size:2.92123px;fill:#ffffff;stroke-width:0.162291"
+         x="0.12445281"
+         y="3.8533342">Joseph</tspan></text>
     <rect
-       style="fill:#000000;stroke-width:0.197142"
+       style="fill:#000000;stroke-width:0.120923"
        id="rect9820"
-       width="4.1748104"
-       height="0.25301784"
-       x="10.887681"
-       y="20.048567"
-       inkscape:transform-center-x="-3.90802"
-       inkscape:transform-center-y="17.168831"
+       width="2.5607407"
+       height="0.15519582"
+       x="6.2522326"
+       y="11.871552"
+       inkscape:transform-center-x="-2.3970969"
+       inkscape:transform-center-y="10.530999"
        transform="matrix(0.70987799,-0.70432467,0.70951089,0.70469447,0,0)" />
   </g>
 </svg>
